@@ -1,0 +1,46 @@
+li {
+    font-weight: 700;
+    font-size: 32px;
+}
+.html {
+    color: #E96228;
+}
+.css{
+    color: #254BDD;
+}
+.javascript{
+    color: #EFD81D;
+}
+.react{
+    color: #00D1F7;
+}
+.tailwind{
+    color: #36B7F0;
+}
+/* #html {
+    font-size: 32px;
+}
+#css {
+    font-size: 32px;
+}
+#js {
+    font-size: 32px;
+}
+#react {
+    font-size: 32px;
+}
+#tailwind {
+    font-size: 32px;
+} */
+[class] {
+    background-color: green;
+}
+[Ali="Nawaz"] {
+    background-color: red;
+}
+.aru p {
+    background-color: brown;
+}
+[Ax]:hover {
+    color: blue;
+}
